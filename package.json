@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "discord.js-selfbot": "^12.0.2",
-    "type-fest": "^0.21.2"
+    "discord.js-selfbot": "^12.0.2"
   }
 }
